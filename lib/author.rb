@@ -1,6 +1,6 @@
 require 'pry'
 
-class Posts
+class Post
   attr_accessor :title, :author
  
   def initialize(title)
