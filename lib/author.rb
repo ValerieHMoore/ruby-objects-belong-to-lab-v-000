@@ -7,7 +7,7 @@ class Posts
   end
 end
 
-class Artist
+class Author
  attr_accessor :name
  
   def initialize
